@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/GLxw9dqwBtc?si=YDezo8iZ4C3du8ZC
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/document/d/1wt_S1UAcT7E9zy4MMPuL8YP3V4VGS4-D8XwqGBjPVag/edit?usp=sharing
+https://docs.google.com/presentation/d/1OB70VO5FFi425AtXXKvftiom-MYj-7L1d11dog5ZHA4/edit?usp=sharing
 
 Paper title:
 Sentiment Analysis and Sarcasm Detection of Indian General Election Tweets
