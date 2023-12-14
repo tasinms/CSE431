@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/3299478255vcksjjpfzbfc#ac3f2b
 
 Unlisted YouTube video:
-http://youtube....
+N/A
 
 Conference submitted paper / paper submission / login Link:
 N/A
@@ -17,7 +17,7 @@ Paper submission date (to workshop/conference):
 14 December 2023
 
 Paper submission ID: (received) from conference/workshop
-N/A
+Access-2023-40858
 
 Conference Name:
 IEEE Access Journal
