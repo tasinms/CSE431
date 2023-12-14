@@ -5,7 +5,7 @@ Unlisted YouTube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+N/A
 
 Paper title:
 Spam Detection in YouTube Comments using Machine Learning
@@ -14,16 +14,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1TC5rbmI1PaoBjCil_fRS7H-piey_tlyM72jOyRM1sVQ/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-25 October 1999
+14 December 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+N/A
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+IEEE Access Journal
 
 Conference URL:
-http://confsite/...
+https://ieeeaccess.ieee.org/
 
 Group Number:
 28
